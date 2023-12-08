@@ -272,7 +272,8 @@ section {
     justify-content: space-around;
     align-items: center;
     width: 100%;
-    background-color: #1c1c1c;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(77,37,137,1) 100%);
     padding: 1rem;
     gap: 16px;
     border-radius: 1rem;
@@ -331,7 +332,8 @@ section {
     justify-content: center;
     flex-direction: column;
     color: whitesmoke;
-    background-color: #1c1c1c;
+    background: rgb(77,37,137);
+    background: linear-gradient(90deg, rgba(77,37,137,1) 0%, rgba(2,0,36,1) 100%);
     flex-grow: 2;
     gap: 1.25rem;
 }

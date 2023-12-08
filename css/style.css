@@ -230,10 +230,12 @@ section {
 
 .product1{
     background-color:#85bbfb ;
+    width: 50%;
 }
 
 .product2{
     background-color:#f3b955 ;
+    width: 50%;
 }
 
 .product1 h2,
